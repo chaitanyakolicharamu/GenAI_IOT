@@ -1,10 +1,10 @@
-GEN-IOT: Generative IoT with AWS
+### GEN-IOT: Generative IoT with AWS
 
-Objective
+### Objective
 Simulate real-time IoT data, process it using AWS Lambda, and generate insights using a Generative AI model (via Amazon Bedrock).
 
 
-Structure
+### Structure
 device-simulator: Python code for virtual IoT devices
 
 data-ingestion: Interfaces with AWS IoT Core
