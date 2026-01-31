@@ -9,7 +9,7 @@ device-simulator: Python code for virtual IoT devices
 
 data-ingestion: Interfaces with AWS IoT Core
 
-lambda-functions: AWS Lambda code to process/filter databgndg
+lambda-functions: AWS Lambda code to process/filter databg
 
 llm-integration: Interfaces with Amazon Bedrock for GenAI processing
 
