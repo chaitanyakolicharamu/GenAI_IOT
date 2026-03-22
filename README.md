@@ -1,6 +1,6 @@
 ### GEN-IOT: Generative IoT with AWS
 
-### Objective
+### Objective FBRHTHR
 Simulate real-time IoT data, process it using AWS Lambda, and generate insights using a Generative AI model (via Amazon Bedrock).
 
 
