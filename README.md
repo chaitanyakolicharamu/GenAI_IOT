@@ -8,7 +8,7 @@ Simulate real-time IoT data, process it using AWS Lambda, and generate insights 
 device-simulator: Python code for virtual IoT devices
 
 data-ingestion: Interfaces with AWS IoT Core
-jbjkblbll;
+jbjkb
 lambda-functions: AWS Lambda code to process/filter data
 
 llm-integration: Interfaces with Amazon Bedrock for GenAI processing
